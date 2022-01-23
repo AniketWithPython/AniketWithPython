@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Just a random kid who fell in love with a computer language
 <!--
 **AniketWithPython/AniketWithPython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
